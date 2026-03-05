@@ -11,8 +11,8 @@ la présence d'une maladie cardiaque.
 
 # Fichiers
 
-- `analyse_des_maladies_cardiaques.py` — le script principal
-- `Prédiction des maladies cardiaques.csv` — le dataset utilisé
+- `heart_disease_analysis.py` — le script principal
+- `heart_disease_prediction.csv` — le dataset utilisé
 
 # Variables utilisées pour le modèle
 
